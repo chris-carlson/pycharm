@@ -1,0 +1,9 @@
+<templateSet group="xml_attributes">
+  <template name="a" value="$NAME$=&quot;$ATTRIBUTE$&quot;" description="attribute" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ATTRIBUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

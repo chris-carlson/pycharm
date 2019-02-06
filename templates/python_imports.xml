@@ -1,0 +1,9 @@
+<templateSet group="python_imports">
+  <template name="imp" value="from $PATH$ import $MODULE$" description="import statement" toReformat="false" toShortenFQNames="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MODULE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

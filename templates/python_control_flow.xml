@@ -1,0 +1,84 @@
+<templateSet group="python_control_flow">
+  <template name="if" value="if $CONDITION$:" description="if statement" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="ife" value="if $CONDITION$:&#10;    $IF$&#10;else:&#10;    $ELSE$" description="if else statement" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="IF" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ELSE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="while" value="while $CONDITION$:" description="while loop" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for $ITEM$ in $COLLECTION$:" description="for loop" toReformat="false" toShortenFQNames="true">
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="range" value="for $ITEM$ in range($START$, $FINISH$):" description="range for loop" toReformat="false" toShortenFQNames="true">
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FINISH" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="raise" value="raise $CLASS$('$MESSAGE$')" description="raise exception" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="eq" value="$VARIABLE1$ == $VARIABLE2$" description="equality check" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARIABLE2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="ne" value="$VARIABLE1$ != $VARIABLE2$" description="negative equality check" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARIABLE2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="and" value="$CONDITION1$ and $CONDITION2$" description="and condition" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONDITION2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="or" value="$CONDITION1$ or $CONDITION2$" description="or condition" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONDITION2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="nop" value="$VAR$ is None" description="positive none check" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="non" value="$VAR$ is not None" description="negative none check" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
