@@ -153,6 +153,12 @@
         <mark key="." line="11" column="42" />
         <mark key="^" line="16" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/programming/python/cac/io/text/read_file.py" timestamp="1551044339457">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="8" column="45" />
+      </file>
       <file name="/Dummy.txt" timestamp="1547925812455">
         <mark key="[" line="0" column="0" />
       </file>
@@ -196,10 +202,12 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/excel/worksheet.py" timestamp="1550972063439">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/programming/python/cac/excel/worksheet.py" timestamp="1551044308929">
+        <mark key="'" line="134" column="24" />
+        <mark key="[" line="134" column="15" />
+        <mark key="]" line="130" column="33" />
+        <mark key="." line="134" column="24" />
+        <mark key="^" line="130" column="33" />
       </file>
       <file name="/" timestamp="1538339505417">
         <mark key="[" line="0" column="0" />
@@ -298,9 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="41" filename="$USER_HOME$/Documents/programming/python/budget/format.py" />
-      <jump line="57" column="88" filename="$USER_HOME$/Documents/programming/python/budget/format.py" />
-      <jump line="33" column="46" filename="$USER_HOME$/Documents/programming/python/budget/format.py" />
       <jump line="63" column="20" filename="$USER_HOME$/Documents/programming/python/budget/format.py" />
       <jump line="58" column="41" filename="$USER_HOME$/Documents/programming/python/budget/format.py" />
       <jump line="46" column="4" filename="$USER_HOME$/Documents/programming/python/budget/format.py" />
@@ -398,6 +403,9 @@
       <jump line="51" column="25" filename="$USER_HOME$/Documents/programming/python/cac/collections/ordered_set.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/programming/python/cac/collections/multi_dict.py" />
       <jump line="57" column="11" filename="$USER_HOME$/Documents/programming/python/cac/excel/workbook.py" />
+      <jump line="2" column="21" filename="$USER_HOME$/Documents/programming/python/cac/excel/worksheet.py" />
+      <jump line="27" column="40" filename="$USER_HOME$/Documents/programming/python/cac/excel/worksheet.py" />
+      <jump line="134" column="24" filename="$USER_HOME$/Documents/programming/python/cac/excel/worksheet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -408,8 +416,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIHRpdGxlKHNlbGYpIC0+IHN0cjoKICAgICAgICByZXR1cm4gc2VsZi5fb3BlbnB5eGxfd29ya3NoZWV0LnRpdGxlCgogICAgQHRpdGxlLnNldHRlcgogICAgZGVmIHRpdGxlKHNlbGYsIHRpdGxlKSAtPiBOb25lOgogICAgICAgIHNlbGYuX29wZW5weXhsX3dvcmtzaGVldC50aXRsZSA9IHRpdGxlCgo=</text>
+      <register name="&quot;" type="4">
+        <text>book</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBpZiBCYW5kLkNPTkNFUlRfRVhUUkFfTU9ORVkgaW4gc2VsZi5fYmFuZDoKICAgICAgICAgICAgc2VsZi5fbW9uZXkgKz0gMQo=</text>
@@ -418,13 +426,13 @@
         <text>: __class__</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>book</text>
       </register>
       <register name="/" type="4">
-        <text>def</text>
+        <text encoding="base64">XDxXb3JrYm9va1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBvcGVucHl4bCBpbXBvcnQgV29ya2Jvb2sgYXMgT3BlbnB5eGxXb3JrYm9vaywgbG9hZF93b3JrYm9vawo=</text>
+      <register name="0" type="4">
+        <text>, start_index: int = None, end_index: int = None</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIHRpdGxlKHNlbGYpIC0+IHN0cjoKICAgICAgICByZXR1cm4gc2VsZi5fb3BlbnB5eGxfd29ya3NoZWV0LnRpdGxlCgogICAgQHRpdGxlLnNldHRlcgogICAgZGVmIHRpdGxlKHNlbGYsIHRpdGxlKSAtPiBOb25lOgogICAgICAgIHNlbGYuX29wZW5weXhsX3dvcmtzaGVldC50aXRsZSA9IHRpdGxlCgo=</text>
@@ -457,6 +465,9 @@
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
+      </register>
+      <register name="v" type="4">
+        <text>: List[str]</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3N0YXJ0X2luZGV4OiAnICsgc3RyKHN0YXJ0X2luZGV4KSkK</text>
@@ -601,9 +612,9 @@
       </register>
     </registers>
     <search>
-      <last-search>def</last-search>
+      <last-search encoding="base64">XDxXb3JrYm9va1w+</last-search>
       <last-offset />
-      <last-pattern>def</last-pattern>
+      <last-pattern encoding="base64">XDxXb3JrYm9va1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -618,6 +629,7 @@
         <entry encoding="base64">XDxfcGFkX251bVw+</entry>
         <entry encoding="base64">XDxmaW5kX2luZGV4ZXNcPg==</entry>
         <entry>def</entry>
+        <entry encoding="base64">XDxXb3JrYm9va1w+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
