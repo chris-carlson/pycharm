@@ -41,10 +41,11 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/json/document.py" timestamp="1551045557251">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="19" />
-        <mark key="." line="16" column="19" />
+      <file name="$USER_HOME$/Documents/programming/python/cac/json/document.py" timestamp="1551055437709">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/programming/python/cac/io/text/write_file.py" timestamp="1551044666093">
         <mark key="'" line="13" column="4" />
@@ -116,11 +117,11 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/json/array.py" timestamp="1551045548007">
-        <mark key="[" line="28" column="29" />
-        <mark key="]" line="28" column="29" />
-        <mark key="^" line="32" column="23" />
-        <mark key="." line="28" column="29" />
+      <file name="$USER_HOME$/Documents/programming/python/cac/json/array.py" timestamp="1551055396376">
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="37" column="23" />
+        <mark key="^" line="37" column="23" />
+        <mark key="." line="37" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/programming/python/budget/category.py" timestamp="1547938176750">
         <mark key="'" line="19" column="28" />

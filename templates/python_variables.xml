@@ -61,4 +61,10 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="type" value="$TYPE$ = TypeVar('$TYPE$')" description="generic type" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="&quot;E&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
