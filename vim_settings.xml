@@ -354,11 +354,11 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/json/container.py" timestamp="1551558030201">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/programming/python/cac/json/container.py" timestamp="1551559448104">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/programming/python/cac/json/boolean.py" timestamp="1551555137077">
         <mark key="'" line="22" column="0" />
@@ -536,8 +536,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBpZiBCYW5kLkNPTkNFUlRfRVhUUkFfTU9ORVkgaW4gc2VsZi5fYmFuZDoKICAgICAgICAgICAgc2VsZi5fbW9uZXkgKz0gMQo=</text>
@@ -549,7 +549,7 @@
         <text>List[str]</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
