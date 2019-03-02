@@ -41,11 +41,12 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/json/document.py" timestamp="1551489784230">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="11" column="35" />
+      <file name="$USER_HOME$/Documents/programming/python/cac/json/document.py" timestamp="1551555674447">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="25" />
       </file>
       <file name="/a.dummy" timestamp="1548103295476">
         <mark key="[" line="0" column="0" />
@@ -127,12 +128,12 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/json/array.py" timestamp="1551058084396">
+      <file name="$USER_HOME$/Documents/programming/python/cac/json/array.py" timestamp="1551555131519">
         <mark key="'" line="0" column="23" />
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="23" />
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="18" />
         <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+        <mark key="." line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/programming/python/budget/category.py" timestamp="1547938176750">
         <mark key="'" line="19" column="28" />
@@ -175,12 +176,13 @@
         <mark key="." line="3" column="56" />
         <mark key="^" line="3" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/json/value.py" timestamp="1551489108463">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="43" column="47" />
+      <file name="$USER_HOME$/Documents/programming/python/cac/json/value.py" timestamp="1551555750488">
+        <mark key="'" line="42" column="29" />
+        <mark key="[" line="50" column="15" />
+        <mark key="]" line="50" column="23" />
+        <mark key="m" line="33" column="29" />
+        <mark key="." line="50" column="23" />
+        <mark key="^" line="50" column="23" />
       </file>
       <file name="/" timestamp="1538339505417">
         <mark key="[" line="0" column="0" />
@@ -192,10 +194,11 @@
         <mark key="^" line="73" column="60" />
         <mark key="." line="73" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/json/number.py" timestamp="1551045563089">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="6" column="29" />
+      <file name="$USER_HOME$/Documents/programming/python/cac/json/number.py" timestamp="1551555141986">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/programming/python/reunion_tour/player/concert_player.py" timestamp="1541864052430">
         <mark key="'" line="10" column="9" />
@@ -253,12 +256,6 @@
         <mark key="." line="634" column="36" />
         <mark key="^" line="6" column="27050" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/collections/multi_set.py" timestamp="1550970868737">
-        <mark key="[" line="52" column="24" />
-        <mark key="]" line="52" column="26" />
-        <mark key="." line="52" column="26" />
-        <mark key="^" line="52" column="26" />
-      </file>
       <file name="/Python Console" timestamp="1551490021004">
         <mark key="[" line="0" column="0" />
       </file>
@@ -293,9 +290,9 @@
         <mark key="^" line="64" column="35" />
         <mark key="." line="64" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/json/pair.py" timestamp="1551489908464">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="19" />
+      <file name="$USER_HOME$/Documents/programming/python/cac/json/pair.py" timestamp="1551556032163">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="25" column="35" />
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
@@ -306,11 +303,11 @@
         <mark key="^" line="115" column="20" />
         <mark key="." line="115" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/json/string.py" timestamp="1551489898461">
-        <mark key="'" line="9" column="8" />
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="29" />
-        <mark key="." line="2" column="29" />
+      <file name="$USER_HOME$/Documents/programming/python/cac/json/string.py" timestamp="1551555147186">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1551058597338">
         <mark key="[" line="0" column="0" />
@@ -343,15 +340,18 @@
         <mark key="." line="134" column="24" />
         <mark key="^" line="130" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/json/object.py" timestamp="1551487722798">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="29" />
+      <file name="$USER_HOME$/Documents/programming/python/cac/json/object.py" timestamp="1551556071028">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="12" />
+        <mark key="^" line="25" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/json/boolean.py" timestamp="1551045553389">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="29" />
+      <file name="$USER_HOME$/Documents/programming/python/cac/json/boolean.py" timestamp="1551555137077">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/programming/python/cac/xml/document.py" timestamp="1551046210554">
         <mark key="'" line="21" column="18" />
@@ -384,12 +384,6 @@
         <mark key="^" line="41" column="33" />
         <mark key="." line="41" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/collections/ordered_dict.py" timestamp="1550971432197">
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="10" column="50" />
-        <mark key="^" line="10" column="50" />
-        <mark key="." line="18" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/programming/python/file_search/file_search.py" timestamp="1547918049151">
         <mark key="'" line="112" column="51" />
         <mark key="[" line="110" column="28" />
@@ -413,28 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="4" filename="$USER_HOME$/Documents/programming/python/budget/months.py" />
-      <jump line="39" column="47" filename="$USER_HOME$/Documents/programming/python/budget/months.py" />
-      <jump line="74" column="24" filename="$USER_HOME$/Documents/programming/python/budget/months.py" />
-      <jump line="18" column="44" filename="$USER_HOME$/Documents/programming/python/cac/args.py" />
-      <jump line="47" column="34" filename="$USER_HOME$/Documents/programming/python/cac/args.py" />
-      <jump line="21" column="71" filename="$USER_HOME$/Documents/programming/python/cac/color.py" />
-      <jump line="12" column="50" filename="$USER_HOME$/Documents/programming/python/cac/comparer.py" />
-      <jump line="14" column="25" filename="$USER_HOME$/Documents/programming/python/cac/comparer.py" />
-      <jump line="115" column="20" filename="$USER_HOME$/Documents/programming/python/cac/consumer.py" />
-      <jump line="117" column="8" filename="$USER_HOME$/Documents/programming/python/cac/consumer.py" />
-      <jump line="7" column="26" filename="$USER_HOME$/Documents/programming/python/cac/credentials.py" />
-      <jump line="182" column="13" filename="$USER_HOME$/Documents/programming/python/cac/date.py" />
-      <jump line="31" column="8" filename="$USER_HOME$/Documents/programming/python/cac/date.py" />
-      <jump line="47" column="88" filename="$USER_HOME$/Documents/programming/python/cac/date.py" />
-      <jump line="20" column="16" filename="$USER_HOME$/Documents/programming/python/cac/color.py" />
-      <jump line="13" column="23" filename="$USER_HOME$/Documents/programming/python/cac/color.py" />
-      <jump line="181" column="4" filename="$USER_HOME$/Documents/programming/python/cac/date.py" />
-      <jump line="170" column="8" filename="$USER_HOME$/Documents/programming/python/cac/date.py" />
-      <jump line="3" column="56" filename="$USER_HOME$/Documents/programming/python/cac/math.py" />
-      <jump line="18" column="8" filename="$USER_HOME$/Documents/programming/python/cac/regex.py" />
-      <jump line="22" column="67" filename="$USER_HOME$/Documents/programming/python/cac/regex.py" />
-      <jump line="29" column="49" filename="$USER_HOME$/Documents/programming/python/cac/string.py" />
       <jump line="56" column="42" filename="$USER_HOME$/Documents/programming/python/cac/string.py" />
       <jump line="59" column="42" filename="$USER_HOME$/Documents/programming/python/cac/string.py" />
       <jump line="66" column="43" filename="$USER_HOME$/Documents/programming/python/cac/string.py" />
@@ -511,8 +483,30 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/programming/python/cac/json/document.py" />
       <jump line="5" column="29" filename="$USER_HOME$/Documents/programming/python/cac/json/object_document.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/programming/python/cac/json/document.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/programming/python/cac/json/value.py" />
       <jump line="9" column="8" filename="$USER_HOME$/Documents/programming/python/cac/json/string.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/programming/python/cac/json/object.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/programming/python/cac/json/boolean.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/programming/python/cac/json/number.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/programming/python/cac/json/string.py" />
+      <jump line="51" column="21" filename="$USER_HOME$/Documents/programming/python/cac/json/value.py" />
+      <jump line="14" column="28" filename="$USER_HOME$/Documents/programming/python/cac/json/document.py" />
+      <jump line="13" column="8" filename="$USER_HOME$/Documents/programming/python/cac/json/document.py" />
+      <jump line="15" column="20" filename="$USER_HOME$/Documents/programming/python/cac/json/document.py" />
+      <jump line="18" column="8" filename="$USER_HOME$/Documents/programming/python/cac/json/document.py" />
+      <jump line="9" column="40" filename="$USER_HOME$/Documents/programming/python/cac/json/document.py" />
+      <jump line="23" column="25" filename="$USER_HOME$/Documents/programming/python/cac/json/document.py" />
+      <jump line="25" column="8" filename="$USER_HOME$/Documents/programming/python/cac/json/document.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/programming/python/cac/json/document.py" />
+      <jump line="15" column="34" filename="$USER_HOME$/Documents/programming/python/cac/json/value.py" />
+      <jump line="19" column="39" filename="$USER_HOME$/Documents/programming/python/cac/json/value.py" />
+      <jump line="20" column="33" filename="$USER_HOME$/Documents/programming/python/cac/json/value.py" />
+      <jump line="24" column="28" filename="$USER_HOME$/Documents/programming/python/cac/json/value.py" />
+      <jump line="28" column="40" filename="$USER_HOME$/Documents/programming/python/cac/json/value.py" />
+      <jump line="29" column="34" filename="$USER_HOME$/Documents/programming/python/cac/json/value.py" />
+      <jump line="33" column="29" filename="$USER_HOME$/Documents/programming/python/cac/json/value.py" />
+      <jump line="37" column="40" filename="$USER_HOME$/Documents/programming/python/cac/json/value.py" />
+      <jump line="38" column="52" filename="$USER_HOME$/Documents/programming/python/cac/json/value.py" />
+      <jump line="42" column="29" filename="$USER_HOME$/Documents/programming/python/cac/json/value.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -523,8 +517,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>self._key</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdHJpbmcgPSBTdHJpbmcoKQogICAgICAgIHNlbGYuX2tleSA9IHN0cmluZy5wYXJzZShjb25zdW1lcikKICAgICAgICBjb25zdW1lci5jb25zdW1lX3doaXRlc3BhY2UoKQogICAgICAgIGNvbnN1bWVyLmNvbnN1bWVfY2hhcignOicpCiAgICAgICAgY29uc3VtZXIuY29uc3VtZV93aGl0ZXNwYWNlKCkKICAgICAgICBzZWxmLl92YWx1ZSA9IFZhbHVlKCkKICAgICAgICBzZWxmLl92YWx1ZS5wYXJzZShjb25zdW1lcikK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBpZiBCYW5kLkNPTkNFUlRfRVhUUkFfTU9ORVkgaW4gc2VsZi5fYmFuZDoKICAgICAgICAgICAgc2VsZi5fbW9uZXkgKz0gMQo=</text>
@@ -536,19 +530,19 @@
         <text>List[str]</text>
       </register>
       <register name="-" type="4">
-        <text>self._key</text>
+        <text>key[pair_key]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXb3JrYm9va1w+</text>
+        <text>:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Qk9PTEVBTl9SRUdFWDogUmVnZXggPSBSZWdleCcodHxmJykK</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmcgPSBTdHJpbmcoKQogICAgICAgIHNlbGYuX2tleSA9IHN0cmluZy5wYXJzZShjb25zdW1lcikKICAgICAgICBjb25zdW1lci5jb25zdW1lX3doaXRlc3BhY2UoKQogICAgICAgIGNvbnN1bWVyLmNvbnN1bWVfY2hhcignOicpCiAgICAgICAgY29uc3VtZXIuY29uc3VtZV93aGl0ZXNwYWNlKCkKICAgICAgICBzZWxmLl92YWx1ZSA9IFZhbHVlKCkKICAgICAgICBzZWxmLl92YWx1ZS5wYXJzZShjb25zdW1lcikK</text>
       </register>
       <register name="p" type="4">
         <text>, by: By, search: str</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yb290ID0gdmFsdWUudmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcGFpcl9rZXkgaW4gc2VsZi5fcGFpcnM6CiAgICAgICAgICAgIGlmIHBhaXJfa2V5ID09IGtleToKICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -585,25 +579,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE5VTUJFUl9SRUdFWDogUmVnZXggPSBSZWdleCgnKC18WzAtOV0pJykKICAgIEJPT0xFQU5fUkVHRVg6IFJlZ2V4ID0gUmVnZXgoJyh0fGYpJykK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcGFpcl9rZXkgaW4gc2VsZi5fcGFpcnM6CiAgICAgICAgICAgIGlmIHBhaXJfa2V5ID09IGtleToKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLl9wYWlyc1trZXldCiAgICAgICAgcmFpc2UgS2V5RXJyb3IoJ0tleSBcJycgKyBrZXkgKyAnXCcgZG9lcyBub3QgZXhpc3QgaW4gdGhlIG9iamVjdCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdmFsdWUgPSBib29sZWFuLnZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgdHlwZShrZXkpID09IHN0cjoKICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKCdLZXkgXCcnICsga2V5ICsgJ1wnIG11c3QgYmUgb2Ygc3RyaW5nIHR5cGUnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdmFsdWUgPSBudW1iZXIudmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZTogVmFsdWUgPSBWYWx1ZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdmFsdWUgPSBzdHJpbmcudmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZTogVmFsdWUgPSBWYWx1ZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdmFsdWUgPSBhcnJheS5lbGVtZW50cwo=</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IFZhbHVlKCkK</text>
       </register>
       <register name="v" type="4">
         <text>: List[str]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdmFsdWUgPSBvYmplY3RfLnBhaXJzCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdmFsdWUucGFyc2Vfb2JqZWN0KGNvbnN1bWVyKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -738,16 +732,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKCiAgICBkZWYgcGFyc2Uoc2VsZiwgY29uc3VtZXIpOgogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYuX3ZhbHVlID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLkJPT0xFQU5fUkVHRVgubWF0Y2hlcyhjb25zdW1lci5wZWVrKCkpOgogICAgICAgICAgICBmcm9tIGNhYy5qc29uLmJvb2xlYW4gaW1wb3J0IEJvb2xlYW4KICAgICAgICAgICAgYm9vbGVhbiA9IEJvb2xlYW4oKQogICAgICAgICAgICBib29sZWFuLnBhcnNlKGNvbnN1bWVyKQogICAgICAgICAgICBzZWxmLl92YWx1ZSA9IGJvb2xlYW4udmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yb290ID0gdmFsdWUudmFsdWUK</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXb3JrYm9va1w+</last-search>
+      <last-search>:</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXb3JrYm9va1w+</last-pattern>
+      <last-pattern>:</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -763,6 +757,7 @@
         <entry encoding="base64">XDxmaW5kX2luZGV4ZXNcPg==</entry>
         <entry>def</entry>
         <entry encoding="base64">XDxXb3JrYm9va1w+</entry>
+        <entry>:</entry>
       </history-search>
       <history-cmd />
       <history-expr />
