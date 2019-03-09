@@ -53,7 +53,7 @@
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="&quot;None&quot;" alwaysStopAt="true" />
     <context>
-      <option name="Python_Class" value="true" />
+      <option name="Python" value="true" />
     </context>
   </template>
   <template name="prop" value="@property&#10;def $VAR$(self) -&gt; $TYPE$:&#10;    return self._$VAR$" description="property function" toReformat="false" toShortenFQNames="true">
