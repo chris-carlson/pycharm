@@ -257,11 +257,11 @@
         <mark key="^" line="6" column="27050" />
       </file>
       <file name="$USER_HOME$/Documents/programming/python/cac/collections/multi_set.py" timestamp="1552147733106">
-        <mark key="'" line="40" column="31" />
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-        <mark key="^" line="13" column="26" />
+        <mark key="'" line="43" column="31" />
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+        <mark key="^" line="16" column="26" />
       </file>
       <file name="/Python Console" timestamp="1552164293817">
         <mark key="[" line="0" column="0" />
@@ -315,14 +315,14 @@
         <mark key="^" line="115" column="20" />
         <mark key="." line="115" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/snippets/snippets.py" timestamp="1552164790134">
-        <mark key="'" line="86" column="13" />
-        <mark key="[" line="74" column="46" />
-        <mark key="]" line="74" column="69" />
-        <mark key="." line="74" column="69" />
-        <mark key="^" line="74" column="69" />
+      <file name="$USER_HOME$/Documents/programming/python/snippets/snippets.py" timestamp="1552166311709">
+        <mark key="'" line="93" column="13" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="7" />
+        <mark key="^" line="59" column="103" />
+        <mark key="." line="81" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552145147981">
+      <file name="/Dummy.txt" timestamp="1552165709009">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/programming/python/cac/io/path/file.py" timestamp="1551044850043">
@@ -536,8 +536,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>extended_file_type</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBpZiBCYW5kLkNPTkNFUlRfRVhUUkFfTU9ORVkgaW4gc2VsZi5fYmFuZDoKICAgICAgICAgICAgc2VsZi5fbW9uZXkgKz0gMQo=</text>
@@ -549,19 +549,19 @@
         <text>List[str]</text>
       </register>
       <register name="-" type="4">
-        <text>snippets_file.stem</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZmlsZV9uYW1lXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>extended_file_type</text>
+        <text>join('config').</text>
       </register>
       <register name="p" type="4">
         <text>, by: By, search: str</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2ZpbGVfdHlwZTogJyArIHN0cihmaWxlX3R5cGUpKQo=</text>
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -576,29 +576,29 @@
           <key char="93" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGZvciBmaWxlX3R5cGUsIHNuaXBwZXRzIGluIGlkZV9maWxlX3R5cGVfc25pcHBldHM6CiAgICAgICAgcHJpbnQoZmlsZV90eXBlICsgJzogJyArIHN0cihzbmlwcGV0cykpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2ZpbGVfdHlwZTogJyArIHN0cihmaWxlX3R5cGUpKQo=</text>
+      </register>
+      <register name="4" type="4">
         <text>Finder.find_only(
         [snippets_file for snippets_file in VIM_SNIPPETS_DIRECTORY.get_files() if snippets_file.stem == file_type])</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>Finder.find_only(
                 [snippets_file for snippets_file in VIM_SNIPPETS_DIRECTORY.get_files() if
                     snippets_file.stem == file_type])</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2V4dGVuZGVkX2ZpbGU6ICcgKyBzdHIoZXh0ZW5kZWRfZmlsZSkpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2ZpbGVfdHlwZTogJyArIHN0cihmaWxlX3R5cGUpKQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdzbmlwcGV0c19maWxlOiAnICsgc3RyKHNuaXBwZXRzX2ZpbGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2V4dGVuZGVkX2ZpbGU6ICcgKyBzdHIoZXh0ZW5kZWRfZmlsZSkpCg==</text>
       </register>
       <register name="v" type="4">
         <text>: List[str]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWRlX2ZpbGVfdHlwZV9zbmlwcGV0czogTXVsdGlEaWN0W3N0ciwgc3RyXSA9IE11bHRpRGljdFtzdHIsIHN0cl0oKQppZGVfZGlyZWN0b3J5OiBEaXJlY3RvcnkgPSBGaW5kZXIuZmluZF9vbmx5KFtkaXJlY3RvcnkgZm9yIGRpcmVjdG9yeSBpbiBIT01FX0RJUkVDVE9SWS5nZXRfZGlyZWN0b3JpZXMoKSBpZgogICAgZGlyZWN0b3J5Lm5hbWUuc3RhcnRzd2l0aCgnLicpIGFuZCBpZGVfaW5wdXQgaW4gZGlyZWN0b3J5Lm5hbWUubG93ZXIoKV0pCnRlbXBsYXRlX2RpcmVjdG9yeTogRGlyZWN0b3J5ID0gaWRlX2RpcmVjdG9yeS5qb2luKCdjb25maWcnKS5qb2luKCd0ZW1wbGF0ZXMnKQppZiBub3QgdGVtcGxhdGVfZGlyZWN0b3J5LmV4aXN0cygpOgogICAgcmFpc2UgVmFsdWVFcnJvcignQ291bGQgbm90IGZpbmQgdGVtcGxhdGVzIGRpcmVjdG9yeSBmb3IgSURFIFwnJyArIGlkZV9pbnB1dCArICdcJycpCmZvciB0ZW1wbGF0ZV9maWxlIGluIHRlbXBsYXRlX2RpcmVjdG9yeS5nZXRfZmlsZXMoKToKICAgIHRlbXBsYXRlX2ZpbGVfc3RlbTogU3RyaW5nID0gU3RyaW5nKHRlbXBsYXRlX2ZpbGUuc3RlbSkKICAgIHRlbXBsYXRlX2ZpbGVfdHlwZTogc3RyID0gdGVtcGxhdGVfZmlsZV9zdGVtLnN1YnN0cmluZ190bygnXycpIGlmICdfJyBpbiB0ZW1wbGF0ZV9maWxlX3N0ZW0gZWxzZSB0ZW1wbGF0ZV9maWxlX3N0ZW0KICAgIGRvY3VtZW50OiBEb2N1bWVudCA9IERvY3VtZW50KHRlbXBsYXRlX2ZpbGUucGF0aCkKICAgIHRlbXBsYXRlX3NldDogRWxlbWVudCA9IGRvY3VtZW50LnBhcnNlKCkKICAgIHRlbXBsYXRlczogTGlzdFtFbGVtZW50XSA9IHRlbXBsYXRlX3NldC5maW5kX2NoaWxkcmVuX2J5X25hbWUoJ3RlbXBsYXRlJykKICAgIGZvciB0ZW1wbGF0ZSBpbiB0ZW1wbGF0ZXM6CiAgICAgICAgaWRlX2ZpbGVfdHlwZV9zbmlwcGV0cy5hZGQodGVtcGxhdGVfZmlsZV90eXBlLCB0ZW1wbGF0ZS5hdHRyaWJ1dGVzWyduYW1lJ10pCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2ZpbGVfdHlwZTogJyArIHN0cihmaWxlX3R5cGUpKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -619,10 +619,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50KCdzbmlwcGV0c19maWxlOiAnICsgc3RyKHNuaXBwZXRzX2ZpbGUpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsaW5lLnN0YXJ0c3dpdGgoJ2V4dGVuZHMnKToKICAgICAgICAgICAgY29uc3VtZXI6IENvbnN1bWVyID0gQ29uc3VtZXIobGluZSkKICAgICAgICAgICAgY29uc3VtZXIuY29uc3VtZV90aHJvdWdoX3NlcXVlbmNlKCdleHRlbmRzICcpCiAgICAgICAgICAgIGV4dGVuZGVkX2ZpbGVfdHlwZXM6IExpc3Rbc3RyXSA9IGNvbnN1bWVyLmNvbnN1bWVfdG9fZW5kKCkuc3BsaXQoJywgJykKICAgICAgICAgICAgZm9yIGZpbGVfdHlwZSBpbiBleHRlbmRlZF9maWxlX3R5cGVzOgogICAgICAgICAgICAgICAgcHJpbnQoJ2ZpbGVfdHlwZTogJyArIHN0cihmaWxlX3R5cGUpKQogICAgICAgICAgICAgICAgZXh0ZW5kZWRfZmlsZTogRmlsZSA9IEZpbmRlci5maW5kX29ubHkoCiAgICAgICAgICAgICAgICAgICAgW3NuaXBwZXRzX2ZpbGUgZm9yIHNuaXBwZXRzX2ZpbGUgaW4gVklNX1NOSVBQRVRTX0RJUkVDVE9SWS5nZXRfZmlsZXMoKSBpZgogICAgICAgICAgICAgICAgICAgICAgICBzbmlwcGV0c19maWxlLnN0ZW0gPT0gZmlsZV90eXBlXSkKICAgICAgICAgICAgICAgIHByaW50KCdleHRlbmRlZF9maWxlOiAnICsgc3RyKGV4dGVuZGVkX2ZpbGUpKQogICAgICAgICAgICAgICAgcmVhZF92aW1fc25pcHBldHNfZmlsZShleHRlbmRlZF9maWxlLCBmaWxlX3R5cGVfc25pcHBldHMpCg==</text>
+        <text encoding="base64">aWRlX2ZpbGVfdHlwZV9zbmlwcGV0czogTXVsdGlEaWN0W3N0ciwgc3RyXSA9IE11bHRpRGljdFtzdHIsIHN0cl0oKQppZGVfZGlyZWN0b3J5OiBEaXJlY3RvcnkgPSBGaW5kZXIuZmluZF9vbmx5KFtkaXJlY3RvcnkgZm9yIGRpcmVjdG9yeSBpbiBIT01FX0RJUkVDVE9SWS5nZXRfZGlyZWN0b3JpZXMoKSBpZgogICAgZGlyZWN0b3J5Lm5hbWUuc3RhcnRzd2l0aCgnLicpIGFuZCBpZGVfaW5wdXQgaW4gZGlyZWN0b3J5Lm5hbWUubG93ZXIoKV0pCnRlbXBsYXRlX2RpcmVjdG9yeTogRGlyZWN0b3J5ID0gaWRlX2RpcmVjdG9yeS5qb2luKCdjb25maWcnKS5qb2luKCd0ZW1wbGF0ZXMnKQppZiBub3QgdGVtcGxhdGVfZGlyZWN0b3J5LmV4aXN0cygpOgogICAgcmFpc2UgVmFsdWVFcnJvcignQ291bGQgbm90IGZpbmQgdGVtcGxhdGVzIGRpcmVjdG9yeSBmb3IgSURFIFwnJyArIGlkZV9pbnB1dCArICdcJycpCmZvciB0ZW1wbGF0ZV9maWxlIGluIHRlbXBsYXRlX2RpcmVjdG9yeS5nZXRfZmlsZXMoKToKICAgIHRlbXBsYXRlX2ZpbGVfc3RlbTogU3RyaW5nID0gU3RyaW5nKHRlbXBsYXRlX2ZpbGUuc3RlbSkKICAgIHRlbXBsYXRlX2ZpbGVfdHlwZTogc3RyID0gdGVtcGxhdGVfZmlsZV9zdGVtLnN1YnN0cmluZ190bygnXycpIGlmICdfJyBpbiB0ZW1wbGF0ZV9maWxlX3N0ZW0gZWxzZSB0ZW1wbGF0ZV9maWxlX3N0ZW0KICAgIGRvY3VtZW50OiBEb2N1bWVudCA9IERvY3VtZW50KHRlbXBsYXRlX2ZpbGUucGF0aCkKICAgIHRlbXBsYXRlX3NldDogRWxlbWVudCA9IGRvY3VtZW50LnBhcnNlKCkKICAgIHRlbXBsYXRlczogTGlzdFtFbGVtZW50XSA9IHRlbXBsYXRlX3NldC5maW5kX2NoaWxkcmVuX2J5X25hbWUoJ3RlbXBsYXRlJykKICAgIGZvciB0ZW1wbGF0ZSBpbiB0ZW1wbGF0ZXM6CiAgICAgICAgaWRlX2ZpbGVfdHlwZV9zbmlwcGV0cy5hZGQodGVtcGxhdGVfZmlsZV90eXBlLCB0ZW1wbGF0ZS5hdHRyaWJ1dGVzWyduYW1lJ10pCgo=</text>
       </register>
     </registers>
     <search>
