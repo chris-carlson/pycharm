@@ -6,7 +6,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="vars" value="self._$NAME$ = $VALUE$" description="self variable set" toReformat="false" toShortenFQNames="true">
+  <template name="varsa" value="self._$NAME$ = $VALUE$" description="self variable set" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -63,6 +63,33 @@
   </template>
   <template name="type" value="$TYPE$ = TypeVar('$TYPE$')" description="generic type" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="&quot;E&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dict" value="{$KEY$: $VALUE$ for $ITEM$ in $COLLECTION$}" description="dict creation" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dictc" value="{$KEY$: $VALUE$ for $ITEM$ in $COLLECTION$ if $CONDITION$}" description="conditional dict creation" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="varsc" value="self._$NAME$: $TYPE$ = $TYPE$($PARAMS$)" description="self variable declaration from constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>

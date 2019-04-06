@@ -105,4 +105,16 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="exit" value="sys.exit()" description="exit program" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="join" value="'$SEP$'.join($LIST$)" description="join statement" toReformat="false" toShortenFQNames="true">
+    <variable name="SEP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LIST" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -144,18 +144,18 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/collections/multi_dict.py" timestamp="1551044574860">
-        <mark key="'" line="16" column="35" />
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="9" column="40" />
-        <mark key="^" line="9" column="40" />
+      <file name="$USER_HOME$/Documents/programming/python/cac/collections/multi_dict.py" timestamp="1552168788684">
+        <mark key="'" line="13" column="35" />
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/io/text/read_file.py" timestamp="1551926094306">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="29" />
-        <mark key="^" line="40" column="18" />
-        <mark key="." line="17" column="29" />
+      <file name="$USER_HOME$/Documents/programming/python/cac/io/text/read_file.py" timestamp="1552168941379">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="34" />
+        <mark key="^" line="30" column="34" />
+        <mark key="." line="30" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/programming/python/cac/math.py" timestamp="1548001215779">
         <mark key="'" line="3" column="56" />
@@ -169,6 +169,13 @@
         <mark key="]" line="59" column="37" />
         <mark key="." line="59" column="37" />
         <mark key="^" line="59" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/python/cac/filter.py" timestamp="1552168074319">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
       </file>
       <file name="/" timestamp="1538339505417">
         <mark key="[" line="0" column="0" />
@@ -256,12 +263,11 @@
         <mark key="." line="634" column="36" />
         <mark key="^" line="6" column="27050" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/cac/collections/multi_set.py" timestamp="1552147733106">
-        <mark key="'" line="43" column="31" />
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-        <mark key="^" line="16" column="26" />
+      <file name="$USER_HOME$/Documents/programming/python/cac/collections/multi_set.py" timestamp="1552168713380">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/Python Console" timestamp="1552164293817">
         <mark key="[" line="0" column="0" />
@@ -315,14 +321,14 @@
         <mark key="^" line="115" column="20" />
         <mark key="." line="115" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/python/snippets/snippets.py" timestamp="1552166311709">
-        <mark key="'" line="93" column="13" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="7" />
-        <mark key="^" line="59" column="103" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/Documents/programming/python/snippets/snippets.py" timestamp="1552169628155">
+        <mark key="'" line="81" column="60" />
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="31" column="25" />
+        <mark key="^" line="31" column="25" />
+        <mark key="." line="31" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552165709009">
+      <file name="/Dummy.txt" timestamp="1552168961698">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/programming/python/cac/io/path/file.py" timestamp="1551044850043">
@@ -426,10 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="24" filename="$USER_HOME$/Documents/programming/python/cac/excel/worksheet.py" />
-      <jump line="16" column="35" filename="$USER_HOME$/Documents/programming/python/cac/collections/multi_dict.py" />
-      <jump line="9" column="4" filename="$USER_HOME$/Documents/programming/python/cac/io/text/write_file.py" />
-      <jump line="51" column="8" filename="$USER_HOME$/Documents/programming/python/cac/io/csv/read_file.py" />
       <jump line="35" column="8" filename="$USER_HOME$/Documents/programming/python/cac/io/path/file.py" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/programming/python/cac/io/path/directory.py" />
       <jump line="6" column="6" filename="$USER_HOME$/Documents/programming/python/cac/io/path/directory.py" />
@@ -522,10 +524,14 @@
       <jump line="40" column="31" filename="$USER_HOME$/Documents/programming/python/snippets/snippets.py" />
       <jump line="37" column="2" filename="$USER_HOME$/Documents/programming/python/snippets/snippets.py" />
       <jump line="63" column="22" filename="$USER_HOME$/Documents/programming/python/snippets/snippets.py" />
-      <jump line="71" column="13" filename="$USER_HOME$/Documents/programming/python/snippets/snippets.py" />
       <jump line="6" column="38" filename="$USER_HOME$/Documents/programming/python/cac/finder.py" />
       <jump line="2" column="15" filename="$USER_HOME$/Documents/programming/python/cac/finder.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/programming/python/cac/finder.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Documents/programming/python/snippets/snippets.py" />
+      <jump line="27" column="113" filename="$USER_HOME$/Documents/programming/python/snippets/snippets.py" />
+      <jump line="3" column="31" filename="$USER_HOME$/Documents/programming/python/cac/filter.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/programming/python/cac/filter.py" />
+      <jump line="81" column="60" filename="$USER_HOME$/Documents/programming/python/snippets/snippets.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -536,8 +542,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>pycharm</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBpZiBCYW5kLkNPTkNFUlRfRVhUUkFfTU9ORVkgaW4gc2VsZi5fYmFuZDoKICAgICAgICAgICAgc2VsZi5fbW9uZXkgKz0gMQo=</text>
@@ -549,19 +555,19 @@
         <text>List[str]</text>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>pycharm</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZmlsZV9uYW1lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>join('config').</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBlbGVtZW50IG5vdCBpbiBzZWxmOgo=</text>
       </register>
       <register name="p" type="4">
         <text>, by: By, search: str</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
+        <text encoding="base64">ZnJvbSBjYWMuY29sbGVjdGlvbnMub3JkZXJlZF9zZXQgaW1wb3J0IE9yZGVyZWRTZXQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -577,28 +583,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBmaWxlX3R5cGUsIHNuaXBwZXRzIGluIGlkZV9maWxlX3R5cGVfc25pcHBldHM6CiAgICAgICAgcHJpbnQoZmlsZV90eXBlICsgJzogJyArIHN0cihzbmlwcGV0cykpCg==</text>
+        <text encoding="base64">ZnJvbSBjYWMuY29sbGVjdGlvbnMub3JkZXJlZF9zZXQgaW1wb3J0IE9yZGVyZWRTZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2ZpbGVfdHlwZTogJyArIHN0cihmaWxlX3R5cGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fcmVwLmFwcGVuZCgoa2V5LCB2YWx1ZV9zZXQpKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>Finder.find_only(
-        [snippets_file for snippets_file in VIM_SNIPPETS_DIRECTORY.get_files() if snippets_file.stem == file_type])</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>Finder.find_only(
-                [snippets_file for snippets_file in VIM_SNIPPETS_DIRECTORY.get_files() if
-                    snippets_file.stem == file_type])</text>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICBkZWYgX19zZXRpdGVtX18oc2VsZiwgazogX0tULCB2OiBfVlQpIC0+IE5vbmU6CiAgICAgICAgc3VwZXIoKS5fX3NldGl0ZW1fXyhrLCB2KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2V4dGVuZGVkX2ZpbGU6ICcgKyBzdHIoZXh0ZW5kZWRfZmlsZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>: List[str]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2ZpbGVfdHlwZTogJyArIHN0cihmaWxlX3R5cGUpKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2dldGl0ZW1fXyhzZWxmLCBrOiBfS1QpIC0+IF9WVDoKICAgICAgICByZXR1cm4gc3VwZXIoKS5fX2dldGl0ZW1fXyhrKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -619,10 +622,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdzbmlwcGV0c19maWxlOiAnICsgc3RyKHNuaXBwZXRzX2ZpbGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWRlX2ZpbGVfdHlwZV9zbmlwcGV0czogTXVsdGlEaWN0W3N0ciwgc3RyXSA9IE11bHRpRGljdFtzdHIsIHN0cl0oKQppZGVfZGlyZWN0b3J5OiBEaXJlY3RvcnkgPSBGaW5kZXIuZmluZF9vbmx5KFtkaXJlY3RvcnkgZm9yIGRpcmVjdG9yeSBpbiBIT01FX0RJUkVDVE9SWS5nZXRfZGlyZWN0b3JpZXMoKSBpZgogICAgZGlyZWN0b3J5Lm5hbWUuc3RhcnRzd2l0aCgnLicpIGFuZCBpZGVfaW5wdXQgaW4gZGlyZWN0b3J5Lm5hbWUubG93ZXIoKV0pCnRlbXBsYXRlX2RpcmVjdG9yeTogRGlyZWN0b3J5ID0gaWRlX2RpcmVjdG9yeS5qb2luKCdjb25maWcnKS5qb2luKCd0ZW1wbGF0ZXMnKQppZiBub3QgdGVtcGxhdGVfZGlyZWN0b3J5LmV4aXN0cygpOgogICAgcmFpc2UgVmFsdWVFcnJvcignQ291bGQgbm90IGZpbmQgdGVtcGxhdGVzIGRpcmVjdG9yeSBmb3IgSURFIFwnJyArIGlkZV9pbnB1dCArICdcJycpCmZvciB0ZW1wbGF0ZV9maWxlIGluIHRlbXBsYXRlX2RpcmVjdG9yeS5nZXRfZmlsZXMoKToKICAgIHRlbXBsYXRlX2ZpbGVfc3RlbTogU3RyaW5nID0gU3RyaW5nKHRlbXBsYXRlX2ZpbGUuc3RlbSkKICAgIHRlbXBsYXRlX2ZpbGVfdHlwZTogc3RyID0gdGVtcGxhdGVfZmlsZV9zdGVtLnN1YnN0cmluZ190bygnXycpIGlmICdfJyBpbiB0ZW1wbGF0ZV9maWxlX3N0ZW0gZWxzZSB0ZW1wbGF0ZV9maWxlX3N0ZW0KICAgIGRvY3VtZW50OiBEb2N1bWVudCA9IERvY3VtZW50KHRlbXBsYXRlX2ZpbGUucGF0aCkKICAgIHRlbXBsYXRlX3NldDogRWxlbWVudCA9IGRvY3VtZW50LnBhcnNlKCkKICAgIHRlbXBsYXRlczogTGlzdFtFbGVtZW50XSA9IHRlbXBsYXRlX3NldC5maW5kX2NoaWxkcmVuX2J5X25hbWUoJ3RlbXBsYXRlJykKICAgIGZvciB0ZW1wbGF0ZSBpbiB0ZW1wbGF0ZXM6CiAgICAgICAgaWRlX2ZpbGVfdHlwZV9zbmlwcGV0cy5hZGQodGVtcGxhdGVfZmlsZV90eXBlLCB0ZW1wbGF0ZS5hdHRyaWJ1dGVzWyduYW1lJ10pCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoKS5hZGQoZWxlbWVudCkK</text>
       </register>
     </registers>
     <search>
