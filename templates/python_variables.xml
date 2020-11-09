@@ -21,7 +21,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="varsd" value="self._$NAME$: $TYPE$ = $VALUE$" description="self variable declaration" toReformat="false" toShortenFQNames="true">
+  <template name="varsi" value="self._$NAME$: $TYPE$ = $VALUE$" description="self variable initialization" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
@@ -36,7 +36,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="list" value="[$EXPRESSION$ for $ITEM$ in $COLLECTION$]" description="list creation" toReformat="false" toShortenFQNames="true">
+  <template name="lista" value="[$EXPRESSION$ for $ITEM$ in $COLLECTION$]" description="list creation" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
@@ -67,7 +67,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="dict" value="{$KEY$: $VALUE$ for $ITEM$ in $COLLECTION$}" description="dict creation" toReformat="false" toShortenFQNames="true">
+  <template name="dicta" value="{$KEY$: $VALUE$ for $ITEM$ in $COLLECTION$}" description="dict creation" toReformat="false" toShortenFQNames="true">
     <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
@@ -89,6 +89,81 @@
   <template name="varsc" value="self._$NAME$: $TYPE$ = $TYPE$($PARAMS$)" description="self variable declaration from constructor" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="listi" value="$NAME$: List[$TYPE$] = $VALUE$" description="list variable" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="&quot;[]&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dicti" value="$NAME$: Dict[$TYPE1$, $TYPE2$] = $VALUE$" description="dict variable" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="&quot;{}&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="seti" value="$NAME$: Set[$TYPE$] = $VALUE$" description="set variable" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="&quot;set()&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="seta" value="{$EXPRESSION$ for $ITEM$ in $COLLECTION$}" description="set creation" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="setc" value="{$EXPRESSION$ for $ITEM$ in $COLLECTION$ if $EXPRESSION$}" description="conditional set creation" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="ter" value="$EXPRESSION1$ if $CONDITION$ else $EXPRESSION2$" description="ternary expression" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPRESSION2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="raw" value="r'$STRING$'" description="raw string" toReformat="false" toShortenFQNames="true">
+    <variable name="STRING" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="nt" value="$NAME$ = namedtuple('$NAME$', [$FIELDS$])" description="named tuple" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELDS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="sv" value="self._$NAME$" description="self variable" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="sf" value="self._$NAME$($PARAMS$)" description="self function" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />

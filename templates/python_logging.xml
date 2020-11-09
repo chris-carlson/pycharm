@@ -1,19 +1,44 @@
 <templateSet group="python_logging">
-  <template name="print" value="print(str($EXPRESSION$))" description="print statement" toReformat="false" toShortenFQNames="true">
+  <template name="prs" value="print(str($EXPRESSION$))" description="print statement to string" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="printv" value="print('$EXPRESSION$: ' + str($EXPRESSION$))" description="print variable" toReformat="false" toShortenFQNames="true">
+  <template name="prv" value="print('$EXPRESSION$: ' + str($EXPRESSION$))" description="print variable" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="printm" value="print('$MESSAGE$: ' + str($EXPRESSION$))" description="print message and variable" toReformat="false" toShortenFQNames="true">
+  <template name="prm" value="print('$MESSAGE$: ' + str($EXPRESSION$))" description="print message and variable" toReformat="false" toShortenFQNames="true">
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="pr" value="print($EXPRESSION$)" description="print statement" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="prl" value="print(str(len($EXPRESSION$)))" description="print statement for length" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="prt" value="print(str(type($EXPRESSION$)))" description="print statement for type" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="prp" value="print(str($KEY$) + ': ' + str($VALUE$))" description="print key and value pair" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
