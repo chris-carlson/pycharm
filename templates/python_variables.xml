@@ -13,7 +13,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="vard" value="$NAME$: $TYPE$ = $VALUE$" description="variable declaration" toReformat="false" toShortenFQNames="true">
+  <template name="vari" value="$NAME$: $TYPE$ = $VALUE$" description="variable declaration" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />

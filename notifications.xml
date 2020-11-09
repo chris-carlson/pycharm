@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="CsvPlugin" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Python interpreter configuring" shouldLog="false" />
+  </component>
+</application>
