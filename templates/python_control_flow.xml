@@ -35,7 +35,7 @@
     </context>
   </template>
   <template name="raise" value="raise $CLASS$('$MESSAGE$')" description="raise exception" toReformat="false" toShortenFQNames="true">
-    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS" expression="" defaultValue="&quot;ValueError&quot;" alwaysStopAt="true" />
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
